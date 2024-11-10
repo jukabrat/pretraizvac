@@ -5,7 +5,7 @@ import webbrowser
 
 svilinkovi= []
 pravilinkovi = []
-jezici = ["Python","C", "C#", "C++", "Cpp", "Ruby", "Html", "Css", "Javascript", "Go"]
+jezici = ["Python","C", "C#", "C++", "Cpp", "Ruby", "Html", "Css", "Javascript", "Go", "Rust"]
 linkovisvihstranica = []
 
 def googlesearch():
